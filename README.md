@@ -5,4 +5,7 @@ The display has a button board - each button is for a different planet in the so
 
 Of course, this information could be represented more easily and accurately by an LCD display.  However, the point of this display is not WHAT it's representing but HOW it is represented.  It is an interactive art piece.
 
+__________________
 This was my first real Arduino project.
+
+Unfortunately, the finalized code (with planet locations) as well as videos and photos of the final project with full functionality were lost when my laptop was stolen a few weeks after completion of the project.  Thus, the photos here are from before the finishing touches were applied.  I learned my lesson about backing up data!
